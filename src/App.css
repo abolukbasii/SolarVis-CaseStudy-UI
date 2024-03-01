@@ -1,0 +1,18 @@
+.container {
+  margin-left: 200px;
+  margin-top: 60px;
+  background-color: rgb(210, 210, 211);
+  width: calc(100% - 200px);
+  height: calc(100% - 60px);
+  border-radius: 5px;
+}
+
+.container-collapsed {
+  margin-left: 60px;
+  background-color: rgb(210, 210, 211);
+  width: calc(100% - 60px);
+  height: calc(100% - 60px);
+  border-radius: 5px;
+  margin-top: 60px;
+}
+

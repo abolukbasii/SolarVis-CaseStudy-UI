@@ -1,0 +1,30 @@
+/* Sidebar.css */
+
+.sidebar {
+    height: calc(100vh - 60px);
+    width: 200px; 
+    position: fixed;
+    left: 0;
+    top: 60px;
+    background-color: #001529;
+    color: #fff;
+    transition: width 0.3s ease;
+  }
+  
+  .sidebar.collapsed {
+    width: 60px;
+  }
+  
+
+  .menu-item {
+    padding: 15px;
+  }
+  
+  .menu-item a {
+    color: #fff;
+  }
+  
+  .menu-item a:hover {
+    color: #1890ff;
+  }
+  

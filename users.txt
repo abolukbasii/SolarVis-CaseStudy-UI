@@ -1,0 +1,9 @@
+Username / Password
+superadmin@gmail.com => superadmin1
+admin1@gmail.com => adminadmin1
+admin2@gmail.com => adminadmin2
+user1@gmail.com => useruser1 (edited and suspended by Admin 1)
+user2@gmail.com => useruser2 (edited and suspended by Admin 2)
+user3@gmail.com => useruser3 (suspended by Admin 1)
+user4@gmail.com => useruser4 (active)
+user5@gmail.com => useruser5 (deleted! It cannot signup with this email. Only superadmin can add)
