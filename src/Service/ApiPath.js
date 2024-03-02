@@ -1,3 +1,3 @@
 export const apiPath = {
-    API_BASE_PATH : 'http://localhost:8000'
+    API_BASE_PATH : 'https://solarvis-casestudy-backend.onrender.com'
 }
